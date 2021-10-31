@@ -1,0 +1,12 @@
+Avengers Diretor1 0001
+Titanic Diretor2 0002
+Love Diretor3 0003
+Cinderela Diretor4 0004
+Frozen Diretor5 0005
+Crepusculo Diretor6 0006
+Joker Diretor7 0007
+Tekken Diretor8 0008
+Okja Diretor9 0009
+Aquarius Diretor10 0010
+Bourne Diretor11 0011
+MIB Diretor12 0012
